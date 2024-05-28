@@ -1,0 +1,99 @@
+.header {
+    height: 125px;
+    width: 1193px;
+    background-color: lightgreen;
+}
+
+.first_slide {
+    height: 350px;
+    width: 350px;
+    border-color: lime;
+    padding-left: 650px;
+
+}
+
+.main_display {
+    height: 500px;
+    width: 650px;
+    border-color: aquamarine;
+
+}
+
+.logo {
+    padding-left: 50px;
+}
+
+// Header Buttons 
+.home {
+    padding-left: 100px;
+}
+
+.About {
+    padding-left: 100px;
+    "
+
+}
+
+.Our_companies {
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.what_we_offer {
+    padding-right: 100px;
+}
+
+.Sign_up {
+    padding-left: 1130;
+}
+
+.Login {
+    padding-left: 1140px;
+}
+
+.Contact {
+    padding-left: 100px;
+}
+
+.want_to {
+    text-align: center;
+    text-color: lightgreen;
+}
+
+.apply {
+    padding-left: 120px;
+}
+
+.events_h1 {
+    padding-left: 530px;
+    color: black
+}
+
+.what_is_EVP {
+    color: chartreuse;
+
+}
+
+.p {
+    font-size: larger;
+}
+
+.p1 {
+    font-size: x-large;
+    font-style: italic;
+}
+
+.EdVenture_Park {
+    color: aqua;
+}
+
+.made_with {
+    color: hotpink;
+    padding-left: 520px;
+    font-style: italic;
+}
+
+.fo_home {
+    padding-left: 350px;
+}
