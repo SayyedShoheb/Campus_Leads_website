@@ -61,8 +61,15 @@
     text-color: lightgreen;
 }
 
-.apply {
-    padding-left: 120px;
+#apply {
+    margin-left: 770px;
+    margin-top: -100px;
+    background-color: lightblue;
+    width: 80px;
+    height: 25px;
+    font-style: italic;
+    border-radius: 10px;
+ 
 }
 
 .events_h1 {
